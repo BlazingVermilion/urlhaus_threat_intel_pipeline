@@ -1,0 +1,11 @@
+{
+  "total_indicators": 150,
+  "unique_hosts": 71,
+  "unique_registered_domains": 10,
+  "unique_reporters": 8,
+  "online_indicators": 123,
+  "ip_host_indicators": 133,
+  "domain_host_indicators": 17,
+  "first_seen_utc": "2022-09-13 05:51:05+00:00",
+  "last_seen_utc": "2022-09-13 07:28:08+00:00"
+}
